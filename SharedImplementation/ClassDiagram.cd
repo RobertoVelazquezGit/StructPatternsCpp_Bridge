@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="String" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAARAAEBAAAAAgAAEAAAAAgAAAAgAA=</HashCode>
+      <FileName>String.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharedString">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAAEAAAAABAAExAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>SharedString.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_Strings" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="std::unordered_map&lt;_Kty, _Ty, _Hasher, _Keyeq, _Alloc&gt;" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAAAAAABAAACQAAAAAAAAAAEABAAAgQAgAAAEAAA=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\unordered_map</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

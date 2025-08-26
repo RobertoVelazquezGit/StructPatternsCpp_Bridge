@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Line_GDI" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAgAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GDI" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAACAAAAAAAAAAAEAEAAAAAAAAAACAA=</HashCode>
+      <FileName>GDI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAgAAAAAAAAAAAAAAAAAQAAAAIAABCAA=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGL" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAEAAAAAAAAAEAEAAABAAAIAACEA=</HashCode>
+      <FileName>OpenGL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Renderer" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAEAEAAAAAAAAAACAA=</HashCode>
+      <FileName>Renderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shape" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAgAgAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shape.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_pRenderer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Window" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAEABBAAEAACAAAAAA=</HashCode>
+      <FileName>Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Point" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

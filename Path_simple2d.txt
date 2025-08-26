@@ -1,0 +1,2 @@
+C:\Users\vmrob\AppData\Local\simple2d <-- Configured in PATH variable in environment
+C:\Users\vmrob\AppData\Local\simple2d\SDL2

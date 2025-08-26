@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shape" Collapsed="true">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAIABAAA=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAgAAAAAAAAAAAAgAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line_OpenGL" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAgAAAAAAAAAAAAAAAAAQABAAAIgAAAA=</HashCode>
+      <FileName>Line_OpenGL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle_OpenGL" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAgAAAAAAAAAAAAAAAAABABAAAIAAAAA=</HashCode>
+      <FileName>Circle_OpenGL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
